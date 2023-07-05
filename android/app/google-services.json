@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778156952461",
+    "project_id": "xemphimhihi-hihi",
+    "storage_bucket": "xemphimhihi-hihi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778156952461:android:0abcd7f5391f591d59cbc4",
+        "android_client_info": {
+          "package_name": "com.xemphim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778156952461-3d4sfc57igcfphga1pgarjtlo0d2skkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY6qr6dvUBRPrBqXuCGHbz8pwu923cfhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778156952461-3d4sfc57igcfphga1pgarjtlo0d2skkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
